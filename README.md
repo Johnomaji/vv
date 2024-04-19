@@ -2,7 +2,7 @@ TourNest – Tours & Travel Agency HTML5 Template
 -------------------------------------------------
 TourNest is an extraordinary HTML5 responsive website template for Tours and Travel Agency. Our UX designers specially designed it for travel agencies, tourism bureaus and tour operators. It offers a lot of value to you with stunning design and a great & awesome layout. It’s really good looking with bright colors and user engaging with a great user interface.
 TourNest has a special search box function for tour plans, flight booking, and hotel sections. So users will get benefited from tour planning to hotel booking through flight selection.<br>
-<a href="https://www.themesine.com/downloads/tournest-tours-travel-agency-html5-template/" target="_blank">Preview Link</a>
+
 
 We would love to see how you use this amazing html5 template. You can notify us about your site by sending a mail to us. We will write a blog post to showcase the best examples.
 
